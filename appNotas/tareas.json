@@ -1,0 +1,26 @@
+[
+ {
+  "titulo": "Tarea algebra y trigonometria",
+  "estado": "Terminado"
+ },
+ {
+  "titulo": "Tarea calculo diferencial",
+  "estado": "Terminado"
+ },
+ {
+  "titulo": "Tarea geometria euclidiana",
+  "estado": "Terminado"
+ },
+ {
+  "titulo": "Tarea quimica organica",
+  "estado": "En progreso"
+ },
+ {
+  "titulo": "Tarea inglés I",
+  "estado": "Pendiente"
+ },
+ {
+  "titulo": "Nueva Tarea",
+  "estado": "Pendiente"
+ }
+]
